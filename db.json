@@ -1,0 +1,34 @@
+{
+    "employees": [
+      {
+        "id": "1",
+        "username": "Bibin Thomas",
+        "email": "bibinthomas5956@gmail.com",
+        "status": "active"
+      },
+      {
+        "id": "2",
+        "username": "Asish Sasi",
+        "email": "asishsasi0@gmail.com",
+        "status": "inactive"
+      },
+      {
+        "id": "3",
+        "username": "Alwyin Wilson",
+        "email": "alwwyinwilson40@gmail.com",
+        "status": "active"
+      },
+      {
+        "id": "4",
+        "username": "Sandeep kr",
+        "email": "sandeepkr123@gmail.com",
+        "status": "active"
+      },
+      {
+        "id": "5",
+        "username": "anila cs",
+        "email": "anilacs123@gmail.com",
+        "status": "active"
+      }
+    ]
+  }
